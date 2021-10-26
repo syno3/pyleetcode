@@ -1,2 +1,5 @@
 env/
 .eggs/
+.pytest_cache/
+pyleetcode.egg-info
+__pycache__
