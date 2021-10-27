@@ -3,3 +3,4 @@ env/
 .pytest_cache/
 pyleetcode.egg-info
 __pycache__
+medium.cpython-39.pyc
